@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738526087 source:c:\users\dell\desktop\mini excel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
